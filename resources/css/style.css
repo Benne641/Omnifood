@@ -193,6 +193,7 @@ header {
     background-size: cover;
     background-position: center;
     height: 100vh;
+    background-attachment: fixed;
     
 }
 
@@ -368,4 +369,8 @@ btn-app:visited {
 .city-feature {
     margin-bottom: 5px;
 }
+
+/*--------------------------------------*/
+/*Testimonials*/
+/*--------------------------------------*/
 
